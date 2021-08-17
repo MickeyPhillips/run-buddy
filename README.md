@@ -11,4 +11,6 @@ A website that offers fitness training services.
 https://mickeyphillips.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Mickey Phillips.
+
+### ©️2019 Run Buddy, Inc 
